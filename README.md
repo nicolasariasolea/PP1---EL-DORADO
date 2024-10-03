@@ -8,3 +8,5 @@ _Practicas Profesionalizantes I_
 :heavy_check_mark: Abigail Inigo  
 :heavy_check_mark: Fiona Rodriguez  
 :heavy_check_mark: Johana Torres  
+
+>Herramientas utilizadas 💻
