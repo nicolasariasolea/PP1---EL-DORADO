@@ -1,5 +1,5 @@
 ## Creacion de Repositorio para Proyecto El Dorado   
-_Practicas Profecionalizantes I_
+_Practicas Profesionalizantes I_
 
 >Integrantes
 
