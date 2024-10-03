@@ -1,8 +1,9 @@
-##Creacion de Repositorio para Proyecto El Dorado de Practicas Profecionalizantes I
+## Creacion de Repositorio para Proyecto El Dorado de Practicas Profecionalizantes I
 
 >Integrantes
-      -Mara Campos
-      -Nicolas Arias
-      -Abigail Inigo
-      -Fiona Rodriguez
-      -Johana Torres
+
+:heavy_check_mark: Mara Campos  
+:heavy_check_mark: Nicolas Arias  
+:heavy_check_mark: Abigail Inigo  
+:heavy_check_mark: Fiona Rodriguez  
+:heavy_check_mark: Johana Torres  
