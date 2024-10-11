@@ -9,4 +9,10 @@ _Practicas Profesionalizantes I_
 :heavy_check_mark: Fiona Rodriguez  
 :heavy_check_mark: Johana Torres  
 
->Herramientas utilizadas 💻
+>Herramientas utilizadas 💻  
+Lucidchart - Diagrama Gantt
+-Google Drive  
+-GitHub  
+-GoogleMeet  
+-PowerBI  
+-Canva  
