@@ -18,4 +18,3 @@ Lucidchart - Diagrama Gantt
 -Canva  
 
 
-Hola soy MAra
